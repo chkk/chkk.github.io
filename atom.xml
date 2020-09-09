@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>V2AC</title>
   
-  
+  <subtitle>Notes</subtitle>
   <link href="http://v2ac.com/atom.xml" rel="self"/>
   
   <link href="http://v2ac.com/"/>
